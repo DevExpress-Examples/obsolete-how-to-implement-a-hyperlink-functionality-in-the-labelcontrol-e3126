@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [LinkLabelControl.cs](./CS/LinkLabelControl.cs) (VB: [LinkLabelControl.vb](./VB/LinkLabelControl.vb))
+* [Main.cs](./CS/Main.cs) (VB: [Main.vb](./VB/Main.vb))
+<!-- default file list end -->
 # OBSOLETE: How to implement a hyperlink functionality in the LabelControl
 
 
